@@ -23,7 +23,7 @@ footer a:hover {
     text-decoration: none;
 } 
 .carousel-item {
-    height: 100vh;
+    height: 50vh;
     background: no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
